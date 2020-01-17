@@ -1,0 +1,5 @@
+wxPython>=4.0.7
+paramiko>=2.7.1
+sshtunnel>=0.1.5
+pyserial>=3.4
+requests>=2.22.0
